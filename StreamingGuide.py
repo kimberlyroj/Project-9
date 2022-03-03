@@ -1,4 +1,7 @@
-
+# Author: Kimberly Rojas
+# GitHub username: kimberlyroj
+# Date: 3/2/2022
+# Description: A a StreamingGuide that has a  list of StreamingServices, and a Streaming Service that has a dictionary of Movies.
 class Movie:
     def __init__(self, title, genre, director, year):
         self._title = title
